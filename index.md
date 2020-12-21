@@ -7,8 +7,8 @@
 
 - **[维基百科](https://wiki.hezeu.workers.dev?_blank)**
 
-- **[谷歌镜像](https://121.4.82.238:5002/)**
+- **[谷歌镜像](https://hzuna.ypufirst.tech:5003/)**
 
-- **[CodeServer](http://192.168.72.201:8082)**
+- **[CodeServer](http://hzuna.ypufirst.tech:5004)**
 
-- **[OctaveServer](http://121.4.82.238:5004/)**
+- **[OctaveServer](http://hzuna.ypufirst.tech:5002)**
